@@ -1,0 +1,14 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
